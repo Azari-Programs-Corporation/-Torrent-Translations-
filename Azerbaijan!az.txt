@@ -1,0 +1,2047 @@
+B
+EB
+GB
+kB
+MB
+PB
+TB
+Hakkında %s\n\nYayıncı: %S\nYayınlanma Tarihi: %S\nVersiyon: %S\nTanım: %S\nGüncelleme URL: %S\n
+©2020 BitTorrent, Inc.\r\nAll Rights Reserved.\r\n\r\nThanks for using this FREE program. We hope you like it. If you paid for it, get a refund!\r\n\r\nThanks to ludde, Serge Paquet, zygron, Firon, and Arvid for all the help.
+©2020 BitTorrent, Inc.\r\nAll Rights Reserved.\r\n\r\nThanks for using this program. We hope you like it.\r\n\r\nThanks to ludde, Serge Paquet, zygron, Firon, and Arvid for all the help.
+©2020 BitTorrent, Inc.\r\nAll Rights Reserved.\r\n\r\nThanks for using this program. We hope you like it.\r\n\r\nThanks to ludde, Serge Paquet, zygron, Firon, and Arvid for all the help.
+Too many activations\nA single purchased copy of %s Plus can only be installed on a set number of computers. This copy has been installed on too many different computers.\n\nPlease either purchase a new copy for this computer, or contact us at http://help.bittorrent.com if you think you're getting this message in error.
+Hatalı dizin. Düzenleyip, tekrar deneyin.
+Geçerli Dizin
+&Seçimi Kaldır
+&Tüm Seçimleri Kaldır
+ (disk alanı: %#Z)
+ (toplam %#Z)
+Dosyaların seçtiğiniz klasöre kaydedilebilmesi için yeterli boş alan yok.\r\nYinede devam etmek istiyor musunuz?
+Seçtiğiniz dizin, %s istemcisiyle aynı sürücüde değil. USB sürücüsünü taşıdığınızda, bu dizin birlikte gelmez. Devam etmek istediğinizden emin misiniz?
+&Seç
+&Tümünü Seç
+Bir ya da daha fazla dosya, dosya sisteminin desteklediği dosya boyutunu aşıyor, bu dosyalar düzgün olarak kaydedilemez.\r\n Yinede devam etmek istiyor musunuz?
+Bir seferde çok fazla torrent eklemeye çalışıyorsunuz.
+RSS Beslemesi Ekle
+Arama listenize "%s" öğesini eklemek ister misiniz?
+ REKLAM
+Bu uTorrent ortaklarına ait bir ilandır.
+µTorrent i reklamsız kullanın
+Anti-virus Bilgisi
+%s uygulaması %s şuraya kopyalanırken hata oluştu %s
+\nBu uygulamanın indirildiği yer: %S
+Yükleniyor %s
+%s uygulaması bir web sitesinden indirildi.\nAncak güvenilen bir kaynaktan indirdiyseniz yükleyin.\nYüklemek istiyor musunuz?\n\nBaşlık: %s\nYayıncı: %S\nGüncelleme adresi: %S
+%d torrentler için bu klasörleri açmak istediğinize emin misiniz?\n
+%d torrentlerinin dönüştürülen dosyalarını açmak istiyor musunuz?\n
+%d torrentleri açmak istiyor musunuz?\n
+Bulunamadı '%s'.
+Hata '%s' URL indirimi sırasında.
+Geçici dosya adı oluşturulamadı.
+Ne NAT-PMP ne de UPnP etkin değil. Lütfen ayarlarınızı kontrol edin.
+%s, herhangi bir virus yada casus yazılım barındırmadığını doğruladı.
+  Şüpheli dosya ve torrenti sil
+Bu torrentten gelen içerik taranırken bir sorun oluştu.
+Virus Bulundu!\r\n\r\n
+Torrent contents are still downloading or checking. Once this is completed, contents will be checked for viruses and spyware.
+Kısa bir zaman önce bu torrenti karantinadan çıkarmışsınız.
+Antivirüs yüklendi
+ ve daha fazlası...
+Antivirüs uygulaması yüklenemedi
+Torrent içeriğinin virüs ve casus programlara karşı taraması tamamlandı.
+  Virüsü karantinaya taşı (varsayılan)
+Torrent içeriğinin virus ve casus programlara karşı taranması bekleniyor.
+  Yoksay ve virüs yok gibi davran (önerilmez)\r\n
+Bu torrent virüs barındırıyor! İçerik \r\nkarantinaya alınacak. Ne yapmak istiyorsunuz?\r\n\r\n
+Torrent adı: *
+Dosya adı: *
+Tüm dosyalar (*.*)||*.*||
+'%s' uygulaması buna erişmek istiyor:\n%s%s%s%s%s%s%s%s%s%s\n\nBu işleme izin veriyor musunuz?
+ActiveX Denetimlerine Eriş
+Arka planda çalışma desteği
+Torrentler oluşturabilir
+Tüm torrentleri okuma izni
+Tüm torrentleri değiştirme izni
+Bu btapp için ActiveX gerekir, ancak gelişmiş ayarlarınızda devre dışıdır.
+Uygulama ismi yok
+Güncelleme adresi yok
+Uygulama uyumlu değil
+Kayıp index.html
+GetContentFile() [BtApp] bir dosya içermiyor
+GetContentFile() [btinstall.txt] dosyası içermiyor.
+Uygulama yüklenemedi (%s)
+BtApp, index.html içermiyor
+btapp zip dosyasından yüklenemedi
+Eklemek istediğiniz torrent,torrentler listesinde bulunmakta. Bu torrent'den izleyicileri yüklemek ister misiniz?
+%d torrentleri eklemek istediğinizden emin misiniz?
+Yüklemenin "%s" i tamamlandı
+Anti-virus imzaları güncellenemedi. Daha sonra tekrar deneyin!
+.torrent dosyası açılamadı: %s
+Uyarı: %s den dolayı çöp kutusu temizlenemedi. Hata: %d. Kaldırma.
+Hata: %s
+Dosyalar eksik. Lütfen kontrol edin.
+Peers6 alanı uzunluğu geçersiz
+Eş bilgisi geçersiz uzunlukta
+İzleyici hatalı bilgi gönderdi.
+İzleyiciden gelen cevap hatalı
+Magnet linklerden çalışabilmesi için DHT desteği gerekli.\n\nDHT özelliğini açmak istiyor musunuz?
+İzleyici cevabı eş bilgisi vermiyor
+Çalıştırılıyor: %s
+çalışıyor
+Yüklenemiyor "%s": %s!
+.torrent kaydedilemiyor '%s'.
+Bilinmeyen torrent
+Cihaz takılı değil
+Uyarı: %s
+İptal
+Otomatik portmap yapılandırması kontrol ediliyor ...
+Sıra kontrol ediliyor ... #%d.
+Öneri
+Bağlanıyor ...
+DÖNÜŞTÜRÜLÜYOR %:.1d %%
+DÖNÜŞTÜRÜLÜYOR
+AKTARILIYOR %:.1d %%
+(otomatik belirle)||16 kB||32 kB||64 kB||128 kB||256 kB||512 kB||1024 kB||2048 kB||4096 kB||8192 kB||16384 kB||
+&İptal
+Kaydedilemedi '%s'.
+&Kapat
+Seçilen verinin boyutu 0 byte. Lütfen başka bir dosya veya dizin belirtin.
+Seçmiş olduğunuz dizin 1000'den fazla dosya içermektedir. Oluşturacagınız .torrent çok yer kaplayacak. Bu dosyaları tek bir dosya olarak sıkıştırdıktan sonra paylaşmanızı tavsiye ederiz. \r\n\r\nYinede devam etmek istiyor musunuz?
+Bir dosya ya da klasörü pencereye sürükleyin.
+Lütfen dosya veya dizinin ismini girin.
+Lütfen geçerli bir izleyici URL'si girin. İzleyici eklemeden devam etmek ister misiniz?
+Hash hesaplanırken bir hata oluştu: (%d) %s
+Seçtiğiniz dizin bir veya daha çok gizli dosya içeriyor.\r\n\r\nBu gizli dosyaları dahil etmek istiyor musunuz?
+İzleyici protokolü geçersiz. udp, http ve https tek geçerli olanlardır. Herhangi bir izleyici olmadan devam etmek istiyor musunuz?
+Tüm dosyalar (*.*)||*.*||
+Torrent dosyaları||*.torrent||Tüm dosyalar (*.*)||*.*||
+Belgelerim klasörünü ve içindeki tüm dosyaları paylaşmayı seçtiniz. Tüm belgelerinizi ve muhtemel özel dosyalarınızı emin olmadıkça paylaşmayın.\n\nDevam etmek istediğinizden emin misiniz?
+Dosya veya dizin '%s' bulunamadı. Lütfen farklı bir dosya adı girin. Bir sürücünün kök dizinini paylaşamayacağınızı unutmayın.
+.torrent'de çok fazla parça var.Daha büyük bir parça boyutu seçin.
+&Sıfırla
+.torrenti kaydedeceğiniz yeri seçin
+Bir dosya seçin
+Bir dizin seçin
+Bir veya daha fazla izleyici geçersiz. Herhangi bir izleyici olmadan devam etmek istiyor musunuz?
+Her zaman bu denetimi gerçekleştir
+Dosya türüne göre Windows seçsin
+En İyi Değerlendirme
+Oylamak için tıkla
+Yorumlar Kapalı.
+En Yeni
+%u Değerlendirme
+En Eski
+Yorum Yapın
+Gönder
+En Kötü Değerlendirme
+Sizin değerlendirmeniz
+Buraya tıklayarak BitTorrent Sertifikalı cihazlar hakkında bilgi edinin
+http://www.bittorrent.com/certified-devices/
+YADA
+Dönüştürülen dosyaları USB ile aktar
+USB bağlantısı ile BitTorrent Sertifikalı bir cihaz takın
+Cihazın üstüne \ntorrent'i sürükleyip bırakın.
+Dönüştür
+Dönüştürülen dosyaların yüklenmesi için, android cihazınızı bağlayın ve dosya aktarımını etkinleştirin.
+Çevirilen dosyalar otomatik \nolarak iTunes'e yüklenecektir.
+BitTorrent taşınabilir cihazlar torrentlerinize erişebilir ve Televizyonunuzda oynatabilir
+USB bağlantısını yapın, dönüştürülecek \ndosyaları seçin ve dosya aktarımını başlatın.
+Yükle
+iTunes'u aç
+BitTorrent sertifikalı taşınabilir bir cihazda oynat
+Depolama cihazına aktar
+Playstation a Kopyala/Oyna
+Xbox a Kopyala/Oyna
+Now walk your USB stick over\nto your Playstation and plug it in.
+Now walk your USB stick over\nto your Xbox and plug it in.
+Bağlantı sağlandığında dönüştürülen içeriği otomatik yükle
+bağlandı
+µTorrent tarafından çevirilen içeriği aktarabilmek için iTunes gerekli.
+BitTorrent Sertifikalı cihazlarda oynatılacak şekilde ayarla
+USB Depolama Devre Dışı
+Oynatılabilir içeriği birden çok depolama cihazına yükleyebilirsin
+Aktarım İçin Hazır
+Bağlanılamadı
+bağlantı kesildi
+iTunes'u İndir
+Android Cihaz Ekle
+Emin misin?
+İptal
+Hayır
+Evet
+bağlandı
+Cihazınızda Yeterli Boş Alan Yok.
+Aktarılamadı
+iTunes'u aç
+%s\\u00ae deneyimini tabletler, mobil cihazlar ve diğer cihazlarda da deneyin
+Android telefon yada tabletinizde Torrentleri bulun ve indirin.
+Yeni cihaz eklendi!
+%s e basit ve güvenli güvenli bir şekilde tüm cihazlardan erişin
+%s\\u00ae Android için
+%s\\u00ae Mobil telefonlar için
+%s\\u00ae Uzaktan erişim
+USB Depolamayı Aktif Et
+USB'den Bağlan
+Seçilen dosyaları USB depolamaya aktar
+Seçilen dosyaları depolama cihazına aktar
+Android cihazını bağla ve\nUSB'den aktarımı aktif et
+Cihaz Bekleniyor...
+Android cihazını USB kablo ile\bilgisayarına bağla
+Android cihazınızda,\nUSB depolamayı aktif edin
+Androd cihaz eklemeyi iptal etmek istediğinize emin misiniz?
+<a>Android cihazınızı ekleyemiyor musunuz?</a>
+<a>Android cihazınıza aktarım yapamıyor musunuz?</a>
+Torrentleri ekleyin
+RSS Beslemesi ekleyin
+Ayarları değiştir
+Download and read torrent data
+Torrent dosyalarını sil
+List settings and torrents and their files and properties
+List torrents, files and properties for special torrents
+Torrentleri sil
+RSS beslemelerini sil
+Control/modify/delete special torrents
+Torrent seçeneklerini seçin
+Torrentleri başlat/duraklat/devam et/durdur/kontrol et/indirmeye zorla ve önceliklerini değiştir
+&Kapat
+I: %z/s
+KS: *
+U: %z/s
+Hakkında
+Web sitesi
+Kapat
+Yeni Torrent Ekle
+ Buraya Kaydet *
+...
+ İsim *
+Tekrar gösterme
+ Buna uygun olarak çevir *
+Mevcut Cihazlardan Seç
+ Torrent Seçenekleri *
+H&ash kontrolünü geç
+Etiket:
+&Torrenti başlat
+Sıranın en üstüne ekle
+Altruistic Mode
+ Torrent İçeriği *
+İsim:
+Yorumlar:
+Boyut:
+Tarih:
+T&ümünü seç
+Hiçbirini &Seçme
+&Gelişmiş...
+TAMAM
+İptal
+Torrent Bilgisi Alınıyor
+Alt Klasör Oluştur
+Welcome to the fastest way to move torrent files. To get started, find a torrent using our search bar.
+Torrentlemeyi öğren
+<a>Hayır, anladım</a>
+Cihazlar
+Çevirmek istediğiniz içeriği cihazınızın üstüne sürükleyin.
+Cihaz Ekle
+Android
+iPods/iPhones
+iPads/Apple TV
+USB den Playstation
+USB den Xbox
+BitTorrent Sertifikalı Cihaz
+Bu özelliği açmak istediğiniz cihaza tıklayın.
+Android
+Apple
+Oyun Konsolu
+BitTorrent Sertifikalı
+Besleme
+Besleme URL:
+&Özel İsim:
+Abonelik
+Tüm öğeleri otomatik indirme
+Beslemede yayınlanan tüm öğeleri otomatik indir
+Akıllı &bölüm süzgecini kullan
+TAMAM
+İptal
+Daima güncellemeleri kontrol et
+Evet
+Hayır
+Şifre Girin
+Şifre Girin
+TAMAM
+İptal
+X
+Yüklemeyi Tekrar Dene
+İptal
+Yeni Torrent Yap
+ Kaynak Seç *
+Dosya ekle
+Klasör ekle
+Dosyaları Atla:
+ Torrent Özellikleri *
+İzleyiciler:
+Web Kaynakları:
+Yorumlar:
+Parça boyutu:
+ Diğer *
+Göndermeye başla
+&Özel torrent
+Dosya sırasını &koru
+&Şifrelenmiş Oluştur
+ Önerilir *
+Website:
+Rss:
+Benzer Torrentler:
+Oluştur
+Torrent oluşturuluyor
+Website
+RSS Beslemeleri
+Benzer Torrentler
+<a>Bundle a gözat</a>
+Göster:
+Çözünürlük:
+Yorumlar
+İletişim
+<a>SysLink1</a>
+Tuş1
+Tuş1
+Eşleştirme İsteği
+Enter the 4-digit PIN displayed on your device to connect your device to %s.\n\n\nYou will be able to add, pause, resume, stop and delete torrents on your computer from your device.\n
+Evet
+Hayır
+ İstatistikleri Oku *
+Önbellek:
+Önbellekten
+Dosyadan
+#
+Miktar
+Ort. Boyut
+Hız
+ İstatistikleri Yaz *
+Önbellek:
+#
+Önbelleğe
+Miktar
+Dosyaya
+Ort. Boyut
+Hız
+Doğrulama
+&Sıfırla
+Sıra
+Bozulan işler
+Uygulama
+İstatistik
+İstatistik
+İstatistik
+İstatistik
+İstatistik
+İstatistik
+İstatistik
+İstatistik
+İstatistik
+Gate Torrent
+TAMAM
+Bir daha gösterme
+Henüz eklediniz ...
+Ücretsiz içeriğin kısıtlamasını kaldırın
+Daha çok Bundle a gözat
+Facebook ta Paylaş
+Twitter da Paylaş
+Gated torrent explaination....
+Bundle Torrent'i Sil
+İptal
+Bir daha gösterme
+Gated torrent explaination....
+Bekleyin...
+Daha çok Bundle a gözat
+Ücretsiz içeriğin kısıtlamasını kaldırın
+Sil
+İletişim
+İptal
+Ayarlarımı hatırla
+Gated torrent explaination....
+Bekleyin...
+Daha çok Bundle a gözat
+Neler eklendiğine gözat
+µTorrent Kurulumu
+&Kabul et
+&Reddet
+< &Geri
+&İptal
+Lütfen önce bir seçenek seçin
+Ayarları Güncelle
+Güncellemeleri yüklemeden önce haber ver
+Program Konumu
+µTorrent'i buraya yükle:
+Taşınabilir mod
+G&özat...
+Başlat menüsüne kısayol ekle
+Hızlı Başlat'a ekle
+Masaüstü simgesi oluştur
+Aşağıdaki seçenekler bazı Windows ayarlarını otomatik olarak yapar.
+Ek Ayarlar
+Windows Güvenlik duvarında µTorrent için izinleri ayarla
+µTorrent'i bilgisayar açıldığında başlat
+µTorrent'le ilişkilendirilecek dosya türlerini seçin.
+Dosya Türleri
+.torrent (BitTorrent dosyası)
+Magnet URI
+.btsearch (BitTorrent arama motoru dosyası)
+<a>SysLink1</a>
+İstatistik
+Radyo1
+Radyo2
+Hey, we notice you have not added a torrent yet, start by searching for a torrent here.
+Daha fazla
+<a>Hayır, anladım</a>
+OpenCandy Teklifi
+Devam et >
+URL'den torrent ekle
+Lütfen eklemek istediginiz torrentin yerini belirtin:
+TAMAM
+İptal
+We want to show you the most meaningful advertisements we can\nThis survey will help us figure out the most relevant ads for you
+Anketi Başlat
+<a>Hayır teşekkürler</a>
+Bilgileriniz herhangi bir şekilde kimseyle paylaşılmayacaktır
+Bay
+Bayan
+Bekar
+Sevgilim var
+Evli
+18 den küçük
+18 - 21
+21'den büyük
+Kumar
+Oyun
+Sevgilim var
+Spor Fanatiği
+Müzik ve Filmler
+Alışveriş
+Plus sürüme yükselt
+Bir daha gösterme
+Devam Et
+Daha fazla bilgi
+Dosya seçin
+TAMAM
+İptal
+&TAMAM
+&İptal
+İletişim
+TAMAM
+İptal
+Kontrol1
+İstatistik
+İstatistik
+İsim Belirt
+İsim
+TAMAM
+İptal
+RSS İndirme Aracı
+&Yardım
+&Kapat
+ Süzgeç Ayarları *
+Süzgeçler:
+Not:
+Kaydet:
+...
+Besleme:
+Kalite:
+&Bölüm Numarası: [örn. 1x12-14]
+&Süzgeç kodlanmış isim yerine orjinal isim ile eşleşsin
+İndirmeleri otomatik başlatma
+&İndirmeye en yüksek önceliği ver
+Akıllı bölüm süzgeci
+&Minimum aralık:
+&Sıfırla
+Yeni torrentler için etiket:
+&Ekle
+&Sil
+? 
+&Sil
+µTorrent Remote
+µTorrent Remote hesabınızın şu anda ayarlanmış bir güvenlik sorusu yok. Daha sonra kullanıcı adınızı bir başka bilgisayara aktarmak için bir güvenlik sorusu kullanılabilir. Onu şimdi oluşturmak ister misiniz?
+Soru:
+Cevap:
+Gönder
+Hayır, teşekkürler
+µTorrent Remote
+Bu kullanıcı adını kullanan bir bilgisayar zaten var *
+Bu kullanıcı adı sizinse, kimliğinizi doğrulamak ve kullanıcı adını bu bilgisayara aktarmak için lütfen güvenlik cevabınızı aşağıya girin.
+Soru:
+Örnek düzenleme kutusu
+Cevap:
+Gönder
+İptal
+Oynatıcı Seç
+İptal
+TAMAM
+Depolama Cihazı Seçin
+TAMAM
+Tercihler
+TAMAM
+İptal
+&Uygula
+Genel Seçenekler
+Anti-virus özelliklerini AÇ
+Otomatik güncellemeyi AÇ
+Anti-virus güncellemelerini denetle
+Antivirüs'ün son güncelleme tarihi:
+Yok
+ Windowsla İlişkilendirme *
+Windows Başlayınca &µTorrent Başlasın
+Torrent dosyalarıyla ilişkilendir
+Simge Durumunda Başlat
+İlişkilendirmeleri başlangıçta kontrol et
+Arayüz Ayarlarını simge durumuna küçült olarak ayarla
+IPv6/Teredo yükle
+ Güncellemeler && Gizlilik
+&Güncellemeleri otomatik yükle
+Güncellemeleri yüklemeden önce haber ver
+Beta versiyonlara da güncelle
+Güncellemeleri kontrol ederken ayrıntılı bilgi gönder (daima belirsiz gizli)
+&Panik-Butonu:
+&Özel Veriyi Temizle
+Panik-Butonu için şifre kullan
+ İndirme Sırasında *
+Bitmemiş dosyalara .!ut son eki ekle
+T&üm dosyaların yerini önceden ayır
+Eğ&er etkin torrentler varsa beklemeyi engelle
+&Dil:
+ Görünüm Seçenekleri *
+Torrentleri silerken onay iste
+İzleyicileri silerken onay iste
+Çikarken onaylama penceresi göster
+Liste için alternatif arkaplan rengi
+Hızı başlık çubuğunda göster
+Hı&z limitini durum çubuğunda göster
+Ayrıntılı dosya önceliklerini göster
+Gönderen önemli ise çıkarken doğrula
+ Sistem Tepsisi *
+&Simge durumuna küçültme görev çubuğuna gönder
+&Tepside µTorrent simgesini göster
+&Kapatma butonuyla kapatma görev çubuğuna gönder
+&Simgeden tek tıklama ile aç
+Tepside &uyarı balonlarını göster
+Tı&klanınca daima aktive et
+ Torrent Eklerken *
+&İndirmeyi otomatik başlatma
+P&rogram penceresini etkinleştir
+Torrent veri konumunu ve adını değiştirmek için seçeneklerini göster
+ Çift tıklama eylemleri *
+Ortalanan torrentler için:
+İndirilen torrentler için:
+ İndirilmiş Dosyaların Kayıt Yeri *
+&Yeni indirmeleri yerleştir:
+...
+&Tamamlanmış indirmeleri taşı:
+Torrent etiketini sona ekle
+.torrentleri depola:
+Biten torrent dosyalarını bu dizine taşı:
+&Yüklenmiş .torrentleri sil
+...
+ Dinleme Portu *
+Gelen bağlantılar için kullanılan port:
+Rastgele port
+UPnP port eşleştirmesini etkinleştir
+&Her başlangıçta rastgele port seç
+&NAT-PMP port yapılandırmasını etkinleştir
+Windows Güvenlik Duvarına ekle
+ Vekil Sunucu *
+T&ür:
+&Vekil:
+P&ort:
+Kimlik doğrulaması var
+Kullanıcı Adı:
+Şifre:
+Hostname lookup için proxy kullan
+Eşler arası bağlantılar için proxy kullan
+ Proxy Gizliliği
+Tüm DNS sorgulamalarını devre dışı bırak 
+Kişisel bilgi sızdıran özellikleri devre dışı bırak
+Proxy tarafından desteklenmeyen bağlantıları devre dışı bırak
+ Gönderme Hızı Sınırı *
+Maksimum gönderme hızı (kB/s): [0: sınırsız]
+İndirme yapılmıyorken gönderme hızı(kB/s):
+ İndirme Hızı Sınırı *
+Maksimum indirme hızı (kB/s): [0: sınırsız]
+ Hız Sınırı Seçenekleri
+Transfer aşımına hız sınırı uygula
+uTP bağlantılarına hız sınırı uygula
+Kullanıcı etkileşiminde aktarımları durdur
+ Bağlantı Sayısı
+Maksimum Bağlantı Sayısı
+Torrent başına maksimum eş sayısı
+Torrent başına gönderme yuva sayısı:
+Gönderme hızı < %90 ise ek gönderme yuvası kullan
+Transfer Üst Limitini Aktive Et
+ Üst limit ayarları *
+Transfer Limiti:
+Zaman Periyodu (gün):
+Limitleme Seçenekleri:
+Yüklemeler
+İndirmeler
+Göndermeler + İndirmeler
+ Seçili durum için kullanım geçmişi
+Gönderilen:
+İstatistik
+İndirilen:
+İstatistik
+Gönderilen + İndirilen:
+İstatistik
+Zaman periyodu:
+İstatistik
+Geçmişi Sıfırla
+ BitTorrent Features *
+&DHT'yi etkinleştir
+&İzleyiciden scrape bilgisi iste
+&Yeni torrentler için DHT'yi etkinleştir
+Eş &Değişimini Etkinleştir
+Yerel Eş &Tespitini Etkinleştir
+&Yerel eşlerde de band genişliğini sınırla
+Bant genişligi yönetimini etkinleştir [uTP]
+UDP izleyici desteğini etkinleştir
+İzleyiciye bildirilecek IP/Sunucu adı:
+ Protokol Şifrelemesi *
+Giden:
+Gelen şifrelenmemiş bağlantılara izin ver
+Enable Altruistic Mode
+ Sıra Ayarları *
+Etkin torrent sayısı (indirme veya gönderme):
+Etkin indirme sayısı:
+ İdeal Gönderme Oranları (Varsayılan Değerler)
+Minimum oran (%):
+Minimum gönderme süresi (dakika):
+Minimum mevcut ortak sayısı:
+&Ortalama işleri, indirme işlerinden daha yüksek öncelikli olsun
+ µTorrent Gönderme Hedefine Ulaştığında *
+Gönderme hızını sınırla (kB/s): [0 = durdur]
+&Zamanlayıcıyı Etkinleştir
+ Zamanlayıcı Tablosu *
+ Zamanlayıcı Ayarları *
+Gönderme hızı sınırı (kB/s):
+&Kapatırken DHT'yi etkisizleştir
+İndirme hızı sınırı (kB/s):
+µTorrent Remote, bir tarayıcıdan istemcinize erişmek için kolay ve çok güvenli bir yol sağlar.
+Yalnızca aşağıdaki bağlantıyı etkinleştirin, bir bilgisayar adı ve şifre seçin ve bu bilgisayarı açık bırakmayı unutmayın.
+Daha Fazlasını Öğren
+µTorrent'e Uzaktan Erişimi Etkinleştir
+ Hesap Detayları*
+&Bilgisayar adı:
+&Şifre:
+* Bilgisayarınızın adı, seçtiğiniz herhangi bir şey olabilir.
+İstatistik
+http://remote.utorrent.com/ adresini ziyaret edin ve bu bilgisayar adını ve şifreyi girin.
+Güvenlik Sorusu Ayarla
+<a>SysLink1</a>
+Choose your default player for Playback tab (downloaded files only)
+Harici medya oynatıcınızı seçin
+%1, yerleşik yerel geri döngü http sunucusunun çıkardığı seçilmiş akışlı dosya olan komut anlamına gelir. Seçtiğiniz oynatıcı için ek parametreler ekleyebilirsiniz.
+Yeni torrentlerde, seçili cihazda oynatılacak şekilde dönüştürme yap;
+Web &UI Etkin
+ Hesap Detayları*
+&Kullanıcı Adı:
+&Şifre:
+Bu &kullanıcı adıyla misafir hesabını etkinleştir:
+ Bağlanabilirlik *
+Alternatif &dinleme portu (öntanımlı olan bağlantı portudur):
+&Yalnızca bu IP'lerden erişime izin ver (birden çok girişleri virgülle ayır):
+İndirme dizinleri
+Ekle
+Kaldır
+ Gelişmiş Seçenekler [UYARI: Değiştirmeyin!] *
+&Filtre:
+&Değer:
+&Doğru
+&Yanlış
+&Ayarla
+&Sıfırla
+ Hız Popup Listesi [Çoklu değerler virgül ile ayrılmış]
+&Otomatik hız popup listesi geçersiz
+Gönderme hız listesi:
+İndirime hız listesi:
+ Kalıcı Etiketler [Birden fazla etiketi | karakteriyle ayırın]
+ Arama Motorları (Biçim: İsim|URL] *
+ Temel Bellek Ayarları *
+Disk önbelleği hard diskinizdeki okuma ve yazma miktarlarını düşürmek için sık giriş yapılan verilerin hafızada tutulmasında kullanılır. µTorrent önbelleği normalde otomatik ayarlar, ancak isterseniz bu ayarları değiştirebilirsiniz.
+&Otomatik bellek boyutunun üzerine yaz ve boyutu manuel ayarla (MB):
+Önbelleğe ihtiyaç olmadığı zaman hafıza kullanımını düşürülsün.
+ Gelişmiş Önbellek Ayarları *
+Disk yazmalari için önbellek &etkin
+He&r 2 dakikada dokunulmamış blokları yaz
+Bit&miş parçaları hemen yaz
+Disk okumaları için önbellek &etkin
+Eğer gönderme hızı düşükse okuma önbelleklemesini kapat
+Eski blokları önbellekten kaldır
+Önbellek temizlendiğinde otomatik önbellek boyutunu arttır
+ Programı Çalıştır
+Bir torrent bittiğinde bu programı çalıştır:
+...
+Bir torrentin durumu değiştiğinde bu programı çalıştır:
+...
+Etiket ve Dizin Kurallarını Kullan
+Otomatik Etiket *
+Etiket:
+İçerikler:
++
+-
+Etiket-Dizin Haritalama
+...
++
+-
+Eşitlenmiş Cihazlardan Kaldır
+Eşitlenmiş Cihazlar
+Kurulum Rehberi
+ Band Genişliği
+Gönderme Hızınız:
+Ayarlar
+Gönderi Limiti:
+İstatistik
+Gönderme Slotlari:
+İstatistik
+Bağlantı (her torrent için):
+İstatistik
+Bağlantılar (global):
+İstatistik
+Max aktif torrentler:
+İstatistik
+Max aktif indirmeler:
+İstatistik
+ Network
+Şimdiki Port: (0:rastgele)
+Otomatik Port eşlemesi (Önerilir)
+&İptal
+Testi Çalıştır
+Kaydet ve Kapat
+Tekrar gösterme
+About Altruistic Mode
+&Kapat
+What is the Altruistic Mode?
+Enabling this feature will prioritize uploads. For every part you download, you will upload twice as much. This mode will guarantee your torrent maintains an upload to download ratio of 2:1 at all times as well as
+keeping your torrent healthy. Keep in mind that this works best for popular torrents.
+Kopyala
+Torrentin Adı:
+Bitti
+Dosya Adı:
+Paylaşım bağlantısı:
+GÖVDE METNİ
+Bilgisayarınız ve µTorrent açık olmalı ve birisi içeriğinizi indirdiği sırada hizmet vermelidir.
+İstenen torrent oluşturulamadı
+Hizmet İstatistikleri
+Göster
+Temizle
+Sıfırla
+Yükle
+Kaydet
+Yayınla
+Kapat
+µTorrent Otomatik Kapatma
+&İptal
+uTorrent Kapatma Bilgisi
+Şimdi Çık
+Disk İşleri:
+Otomatik kapanma için kalan süre:
+İzleyiciler:
+1 dakika
+Hız Rehberi
+&Hız testi yap: www.dslreports.com 
+Bağlantı Tipi:
+ Geçerli Ayarlar * 
+Gönderi Limiti:
+Gönderme Slotlari:
+Bağlantı (her torrent için):
+Bağlantılar (global):
+Max aktif torrentler:
+Max aktif indirmeler:
+Şimdiki Port: [0: oto]
+&Portu test edin
+&İptal
+Bu Ayarları Kullan
+Güvenlik Tehlikesi
+TAMAM
+This file has been altered from its original state and could contain files that harm your computer.
+Biz içerik sağlayıcının web sitesinde doğrudan temiz bir sürümünü indirmenizi öneririz.
+µTorrent Streaming Feedback
+Akış deneyiminiz hakkında bize bilgi verin.
+Yorumlar
+TAMAM
+İptal
+Torrent Özellikleri
+TAMAM
+İptal
+ İzleyiciler (Duyuru adreslerinin arasında bir satır boş bırakın) *
+ Band Genişliği Ayarları *
+En yüksek gönderme hızı (kB/s): [0: varsayılan]
+En yüksek indirme hızı (kB/s): [0: varsayılan]
+Gönderme yuva sayısı: [0: varsayılan]
+ Gönderme Hedefi
+&Varsayılan ayarların üzerine yaz
+Minimum oran (%):
+Minimum gönderme süresi (dakika):
+Minimum mevcut ortak sayısı:
+ Diğer Ayarlar *
+&İlk Gönderme
+Eş Değişimi
+&DHT'yi etkinleştir
+Yerel Eş Bulma
+Altruistic Mode
+Web Kaynaklari
+ Yazılımı Çalıştır *
+İndirme bittiğinde bu programı çalıştır:
+...
+Bu komutları kullanabilirsiniz:\r\n%F - İndirilen dosyanın adı (tek dosya içeren torrentler için)\r\n%D - Dosyaların kaydedildiği dizin\r\n%N - Torrentin başlığı\r\n%S - Torrentin durumu-r\n%L - Etiket\r\n%T - İzleyici
+%M - Durum mesajı dizesi (durum sütunu)\r\n%I - hex kodlu bilgi-hash\r\n%K - torrent türü (tek|çok)\r\n\r\nDurum: kombo:\r\nbaşlatıldı=1, kontrol ediliyor=2, kontrolden sonra başlatma=4,\r\nkontrol edildi=8, hata=16, duraklatıldı=32, otomatik=64, yüklendi=128
+URL güncelle
+İletişim
+TAMAM
+İptal
+µTorrent Görselleştirme
+Kapat
+Dönüştürüldü
+µTorrent in %d.%d.%d derleme %d versiyonu zaten yüklü. Daha düşük bir sürüm olan %d.%d.%d derleme %d sürümünü yüklemek istediğinize emin misiniz. Mevcut sürümle devam etmek için "Hayır" a basınız
+%s indiriliyor...
+Çeviri indirilemedi. Daha sonra tekrar deneyiniz.
+Çeviri güncel.
+RSS Beslemesini Düzenle
+Failed to download your plus licence key. Please try again.
+Pro lisans anahtarınız alınırken hata oluştu. Lütfen tekrar deneyin.
+torrent geçerli bencoding değil
+İndirme hatası, tekrar deneyin
+geçersiz 'dosya' alanı
+torrent bilgisi-hash, magnet bağlantısıyla eşleşmiyor
+torrentte geçersiz yol
+Geçersiz torrent dosyası
+yeterli bellek yok
+Torrent adsız alan içeriyor
+torrent parçasız hash içeriyor
+torrent parça içermiyor
+magnet URI okunamadı
+torrent çok fazla parça içeriyor (%Ld)
+Torrent dosyası değiştirildi
+desteklenmeyen parça boyutu (%Z)
+desteklenmeyen torrent boyutu (%Z)
+&Besleme Geçmişini Temizle
+&Beslemeyi Sil
+Bes&lemeyi Etkisizleştir
+&Beslemeyi Düzenle...
+Be&slemeyi Etkinleştir
+&Beslemeyi Güncelle
+ffmpeg Process aborted with error %d. Unknown error\nMore information may be found in the transcript log at %s\\\\media
+Dönüştürme işlemine başlanamadı
+%s dosyası zaten bulunmakta.  Üzerine yazılsın mı?
+Dosya zaten var
+1
+2
+3
+Torrentlerimi Filtrele
+İçeriği internette ara
+Sonuçları gösteren bir web sayfası yüklenecek.
+...Üçüncü adım yok!
+Arama Sağlayıcılarını Düzenle...
+Mesela içerikli başlıklar, nasıl yapılır açıklamaları vb.
+Torrent dosylarına ulaşmak için bağlantılar göreceksiniz,\nistediğinize tıklayın.
+Alternatif olarak Torrent adresini istemci üzerinden de kopyalayıp yapıştırabilirsiniz.
+Sorun
+Taranmadı
+Karantinada
+Sırada
+Tarıyor
+Tanımlamalar güncelleniyor
+Tarandı
+Kodekler
+Dosya Yolu
+Cihaz
+Bitti
+Süre
+Dönüştürülüyor
+Kalan Zaman
+İlk Parça
+Başlığı var
+Medya Uzunluğu
+Mod
+İsim
+# Parçalar
+#
+%
+Parçalar
+Oynat
+Öncelik
+Hız
+Çözünürlük
+Boyut
+Durum
+Oynatılabilir içerik
+Playback
+Torrent
+#Aktarmalar
+Medya
+*
+oku
+yaz
+geç
+düşük
+normal
+yüksek
+%s dosyası açılırken hata oluştu.\r\n\r\nDosya tam olarak indirilmemiş olabilir mi?
+oynatıcı çalıştırılamadı\n\n[%s]
+Tarayıcı açılamadı\n\n [%S]
+%s%s dosya türünü oynatan bir medya oynatıcı bulunamadı.
+Today is your lucky day! By entering your email you will be able to automatically unlock more free stuff from %s. \n\n Your free stuff is one click away.
+Today is your lucky day! By entering your email you will be able to automatically unlock more free stuff. \n\n Your free stuff is one click away.
+BITTORRENT BUNDLE I EKLEDİNİZ
+Güncelle
+Görünüm
+Before you delete %s, have you unlocked all the free content? One click and you'll get more. *
+Silmeden önce tüm içeriğe erişimi açtınız mı? Tıklayın ve daha fazlasına erişin. *
+DURUN. BUNUN GİBİ ÇOK VAR.
+The BitTorrent Bundle has new content available. Click update to get the new content!
+%s BitTorrent Bundle'a yeni içerikler eklenmiş. Güncelle ye basarak yeni içeriği indirin.
+BUNDLE'A YENİ İÇERİK EKLENMİŞ
+The BitTorrent Bundle %s has new content that just downloaded. View the new content by clicking below!
+The BitTorrent Bundle %s has new content that just downloaded. View the new content by clicking below!
+BUNDLE'A YENİ İÇERİKLER İNDİRİLDİ
+&Kopyala
+uTorrent, istediğiniz içeriği yalnızca üç basit aşamada indirmenizi sağlar.
+Aradığınız şeyi BULMAK için, burayı tıklayarak TEDTalks ve Vodo Movies gibi büyüyen ortaklar listenizden heyecan verici içeriğe göz atın.
+Yada torrent dünyasını keşfetmek için bir arama terimi girin.
+Hazır olun.
+uTorrent'ten çıkacaksınız ve tarayıcınız bağlantısız Web sitelerine açılacak.
+Bazı sitelerin birçok bağlantısı olacaktır -
+bir torrent indirme bağlantısı aradığınızı unutmayın.
+Birinci adımı doğru yaptıysanız, (dot) torrent ile biten bir dosya indireceksiniz
+Yalnızca dosyayı açın,
+ardından uTorrent'e dönün ve siz tam bir torrent dosyasına sahip olana kadar uTorrent başkalarıyla bölüm ve parça alışverişi yaparken hareketi izlemek için burayı tıklayın.
+Son olarak, indirmeniz tamamlandıktan sonra,
+OYNAT gibi seçenekler belirlenebilecektir.
+Utorrent ile, istediğiniz içeriğin indirilmesi basitleşir
+Ulaşılabilirlik:
+[DHT]
+duyuruluyor...
+etkisiz
+inaktif
+izin verilmedi
+duyuru için bekliyor...
+çalışıyor
+%z/s
+İndirilen:
+ [Sınırlı]
+%z/s (ort. %Z/s)
+%z/s
+Genel
+%#Z (%d hash hatası)
+[Yerel Eş Bulma]
+etkisiz
+inaktif
+izin verilmedi
+çalışıyor
+*
+[Eş Değişimi]
+etkisiz
+inaktif
+izin verilmedi
+çalışıyor
+%d x %#z (%u var)
+scrape desteklenmiyor
+scrape (ortak-eş sayısı bilgisi) tamam
+scrape işlemi
+%#Z (%#Z tamam) (%#Z toplam)
+%#Z (%#Z bitti)
+Geçen Zaman:
+İndirilen:
+Gönderilen:
+Ortaklar:
+Kalan:
+İndirme Hızı:
+Gönderme Hızı:
+Eşler:
+Paylaşma Oranı:
+İndirme Sınırı:
+Gönderme Sınırı:
+Atılan:
+Kayıt Yolu:
+Parçalar:
+Yorumlar:
+Toplam Boyut:
+Hash(Doğrulama):
+Oluşturulma Tarihi:
+Durum:
+Yükle
+etkisiz
+güncelleniyor...
+%z/s
+%z/s (ort. %Z/s)
+%z/s
+%d taneden %d tanesine bağlandı (%d kümede)
+Byte Okunan - Zaman
+Byte Yazılan - Zaman
+Okuma Sayısı - Zaman
+Yazma Sayısı - Zaman
+Transfer Cap is Not Set
+Sürücü İstatistikleri
+Sürücü Zamanlaması
+İndirme
+Grid: %d gün
+Ağ Kullanımı
+%d gün
+%#z, toplam %#z
+Ön izleme
+Transfer Limiti
+Transfer geçmişi
+Gönderme
+Yükleme & İndirme
+uTP gecikmesi
+Grid: 10 saniye
+Grid: 1 dakika
+Grid: 5 dakika
+Grid: 1 saat
+Zaman (%s aralıkla)
+1 saniye
+5 saniye
+30 saniye
+5 dakika
+k\nB\n/\ns
+m\ns
+Yardım dosyası indirilemedi. Hata: %s
+Yardım dosyası ayarlar dizininde bulunamadı, indirmeye çalışılıyor
+Yardım dosyası halen indirildiği için açılamadı
+Kapat
+Unable to connect to the Internet at this time.
+Please try again once you have a connection.
+Hatalı yönlendirme (%S)
+Hatalı http cevabı
+Hatalı aktarım şifrelemesi
+Hatalı URL
+dosya açılamadı
+çıkartılamıyor
+dosyaya yazılamadı
+dosyaya yazılamadı
+Çok fazla yönlendime (%S)
+A newer version of µTorrent, %d.%d.%d build %d is already installed. Would you like to downgrade to %d.%d.%d build %d?\nClicking "No" runs your installed version of µTorrent.
+µTorrent in yeni bir sürümü zaten çalışıyor.
+µTorrent in eski bir sürümü zaten çalışıyor.
+µTorrent i kapatın ve yeniden deneyin *
+Check your User Account Control settings
+Please enable User Account Control and restart the installer or contact your local administrator
+Tamamlanmadı
+Yükleniyor %s ...
+Onaylıyorum
+µTorrent in sorunsuz çalışan ve daha güvenli bir sürümü var.
+Otomatik Güncellemeler
+Yükleme seçenekleri
+Uygulama dosyasının yerleştirileceği bir dizin seç:
+µTorrent Yapılandırma Ayarlarını Seç (tavsiye edilen ayarlar önceden seçilmiştir)
+Yapılandırma
+Bitir
+Seçim Yapmalısınız "Onaylayın" ya da "Reddedin"
+By clicking "I Agree", you acknowledge that you have read and agree to the End User License Agreement and <a href="http://www.bittorrent.com/legal/privacy">Privacy Policy</a>.
+Anlaşmanın devamını görmek için aşağı kaydırın.
+İleri >
+Lütfen µTorrent'i kurmadan önce lisans koşullarını okuyunuz
+Lisans Anlaşması
+İnternet dolandırıcılıklarına dikkat ediniz! Bir takım web siteleri bizim adımızı kullanarak, ücretsiz olan µTorrent için sizden "bağış" ya da "kayıt ücreti" adı altında para isteyebilir ya da yükleme esnasında bilgisayarınıza kötü niyetli programlar bulaştırabilirler. Kendinizi korumak için, lütfen sadece http://www.utorrent.com adresinden yükleme yapınız. ASLA ücretsiz olan µTorrent yazılımı için ücret ödemeyiniz.     
+BitTorrent, Inc. -  µTorrent'in yayımcılarından
+Uyarı
+&Yükselt
+Desteklenmeyen İşletim Sistemi (OS)
+DİKKAT
+This wizard will guide you through the installation of %s®, the #1 torrent download client on desktops and mobile devices worldwide.  %s® is a torrent client that allows you to download files quickly and efficiently.\r\n\r\nVersion: %s (Build %s) by BitTorrent, Inc.\r\n\r\nClick Next to continue.
+This wizard will guide you through the installation of the official %s® torrent download client from BitTorrent Inc., the inventors of the BitTorrent protocol.  %s® is a torrent client that allows you to download files quickly and efficiently.\r\n\r\nVersion: %s (Build %s)\r\n\r\nClick Next to continue.
+µTorrent® Yükleme Yardımcısına Hoş Geldiniz
+%s Windows 2000 işletim sistemini desteklemez ve düzgün\r\nçalışmayabilir.  Daha yeni bir Windows işletim sistemine\r\na yükseltmenizi öneririz.
+Geçirsiz klasör belirtildi. Lütfen başka bir klasör seçin.
+Geçersiz dizin
+Dosyalar iTunes'a eklenemedi\n%s\nhata: %d
+%s Sonlandırılsın mı?
+Dil dosyasini yüklerken hatalar oluştu. Lütfen ayrıntılı bilgi için uygulama klasöründeki uTorrent.exe.log dosyasına bakın.
+Alternatif sunucular test ediliyor...
+Yükleme %s tamamlanamadı.\n(%s)
+&İzleyici Ekle...
+Tüm &kayıtları temizle
+Günlük dosyasına bak
+Günlüklenecek dosyanın adını girin:
+Mesajları kaydet
+Engellenen bağlantıları kaydet
+Raporu &Temizle
+&Kopyala
+DHT &Deposunu Boşalt
+&İzlenmiş DHT Boşalt
+Kesilen bağlantıları kaydet
+&Rapor Hatası
+Kötü iptalleri kaydet
+Log bad donthaves
+Log bad haves
+Kötü parça isteklerini kaydet
+Kötü reddetmeleri kaydet
+Log incoming donthave messages
+Gelen have mesajlarini kaydet
+Delik zımbasını kaydet
+Gelen bağlantıları kaydet
+&Bellek Dökümü Bilgisi
+Bitmiş metadatayı kaydet
+Diğer hataları kaydet
+NATPMP mesajlarını kaydet
+NATPMP hatalarını kaydet
+Ağ &Bilgi Dökümü
+Giden bağlantıları kaydet
+&Eş Trafik Günlüğü
+PEX kaydet
+Parça seçiciyi kaydet
+RSS mesajlarını kaydet
+RSS hatalarını kaydet
+Giden have mesajlarini kaydet
+Soketleri &Kaydet
+&Dosyaya kaydet...
+Hataları kaydet
+UPnP mesajlarını kaydet
+UPnP hatalarını kaydet
+&Ayrıntılı günlük kaydı
+WebUI isteklerini kaydet
+&İzleyiciyi Kaldır
+&İzleyiciyi Güncelle
+DHT &Kullan
+Yerel &Eş Bulmayı Kullan
+Eş &Değişimini Kullan
+Güncelleme sunucusuna bağlanılamadı.
+Yüklenemiyor "%s": %s!
+Yüklenemiyor "%s": %s!
+Sürdürülen dosya kaydedilemiyor. Bazı veriler kaybolmuş olabilir.\r\nDosyayı başka bir program kullanıyor veya disk dolmuş. Lütfen sorunu düzeltip tekrar deneyin. Eğer iptale basarsanız, bu dosya kaydedilmeyecek.
+Devam dosyası kaydedilemedi. Dosyayı başka bir program kullanıyor ya da disk dolu.
+.torrent dosyası '%s' dan '%s' a kopyalanamadı : (%d) %s
+µTorrent güncelleme sunucusuna ile bütünlük sağlanamadı.
+İndireceğiniz dizini seçin '%s' to :
+Kaydedeceğiniz dizini seçin %s
+Failed to connect to %s Remote because your client is not compatible.\n\nWould you like to upgrade to the latest client?\n
+Yüklediğiniz bazı programlar %s\n sorun yaratıyor. Bu sorun muhtemelen '%S %S' DLLler tarafından oluşuyor 
+Son %d gün
+DHT: Kapalı
+ (Giriş yapılıyor)
+DHT: %d nod%s
+ (Güncelleniyor)
+DHT: Giriş için bekliyor
+Torrentler (*.torrent)||*.torrent||Tüm dosyalar (*.*)||*.*||
+İndirmek istediğiniz daha önce eklenmiş ve tamamlanmış bir şekilde indirmeler klasöründe bulunuyor.\r\nBu dizindeki veriyi kullanmak ister misiniz?
+Durdur - Bu torrenti ekleme.
+Hayır - Torrenti indir.
+Evet - Tamamlanan klasördeki veriyi kullan.
+%s detected '%S' (%S) appears to be installed on your computer. That is known malware, and might cause %s to crash or behave strangely, including but not limited to using up all your RAM and freezing. Please run a virus/malware checker.
+%s i varsayılan torrent uygulaması yapmak ister misiniz?
+You appear to be running version %02d.%02d of the NVIDIA Network Access Management tool.\n\nThis version has known issues which may create problems with %s.\n\nPlease upgrade your NVIDIA software to at least version %02d.%02d.
+%d torrentleri eklemek istediğinizden emin misiniz?
+%s den çıkış yapmayı gerçekten istiyor musunuz?
+Bir veya daha fazla torrent in yüklemesi devam ediyor. %s ten çıkmak istediğinize emin misiniz?
+Kayıt hatası%S%S
+Hesap düzeltme hatası%S%S
+Güvenlik sorusu kaydetme hatası%S%S
+Devam dosyası başarıyla kaydedildi.
+D: %s%z/s
+ L: %z/s
+ O: %z/s
+ T: %Z
+U: %s%z/s
+Açmak için bir .torrent seçin
+bağlantı kesildi
+%s: HATA MSJ: %s\n
+%s: HATA: alinan mesaj tipi %d (beklenen %d)\n
+Bağlantı
+Okunan Data
+Yollanan Data
+\r\nUploaded this run: %#Z\r\nDownloaded this run: %#Z\r\nUploaded Today: %#Z\r\nDownloaded Today: %#Z\r\nTransferred last %d days: %#Z\r\nTotal Uploaded: %#Z\r\nTotal Downloaded: %#Z\r\nTotal Ratio: %:.3d\r\nTotal Running Time: %d:%.2d:%.2d\r\nNumber of torrents added: %d\r\nProgram launched: %d times\r\n\r\nLast launched: %s\r\n# incoming conns since start: %d\r\n# outgoing conns since start: %d\r\n# handshake: %d\r\n# connections: %d\r\n# uTP connecting: %d\r\n# TCP connecting: %d\r\n# half-open: %d (%d queued)\r\n
+[ALLOCFILE] *
+Disk Cache Overload
+Cache Overload
+*
+Dinleme hatası\r\nDinleme portunu değiştirmelisiniz.
+Ağ TAMAM\r\nAğ bağlantınız olması gerektiği gibi çalışıyor.
+Bağlı değil\r\nBir güvenlik duvarı/router ağ bağlantınızı sınırlandırıyor.Diğerlerinin size bağlanabilmesi için bir port açmanız gerekiyor.
+Gelen bağlantı yok.\r\nİkonun yeşil olmaması, ağ ayarlarınızla ilgili bir sorun olduğuna işaret etmektedir.
+Zamanlayıcı ile sınırlanmış
+Transfer Limiti nedeniyle durduruldu
+Transfer Limiti ayarlarına ulaşmak için tıklayınız
+Zaman çizelgesi ayarlarına ulaşmak için tıklayınız
+Sadece gönder
+Hız testi durduruldu
+Hız testine erişmek için tıklayın
+Zaman çizelgesince durduruldu
+Kullanıcı isteği ile durduruldu
+Band genişliği ayarlarına erişmek için tıklayın
+%s\r\n%d(%d) indiriliyor, %d(%d) gönderiliyor\r\n%z/s ind., %z/s gönd.
+D:%s U:%s - %s
+Sınırsız
+Güncellenecek .torrent i seçin
+USB sürücüsünü çıkarmadan önce %s öğesinden çıkmayı unutmayın!
+Failed to connect to %s Remote %S%S%s
+\n\Kullanıcı bilgilerinize göz atmak için "Tamam"a basın.
+Failed to connect to %s Remote because the username or password was wrong.\n\nWould you like to register a new account under the name "%S"?\n
+&µTorrent Hakkında
+Cihaz Ekle...
+RSS Beslemesi Ekle...
+&Torrent Ekle...
+&Torrent ekle (kayıt klasörü seçerek)...
+&URL'den Torrent Ekle ...
+&Trending Videos Webpage
+Crash the client
+&Yeni Torrent oluştur...
+Ç&ıkış
+&Dosya
+µTorrent &Forumları
+&Yardım
+µTorrent SS&S
+µTorrent &Yardım
+&Learn more about %s Plus
+My &Plus Account
+&Learn more about %s Pro
+My &Pro Account
+&Learn how to use µTorrent
+&Seçenekler
+&Get %s Plus
+&Get %s Pro
+&Tercihler
+&Sürüm Notları
+&RSS İndirme Aracı
+Varsayılan dış görünüm renklerini kaydet
+&Beta ile ilgili bilgi gönder
+Yan Menüyü &Göster
+Kategori Listesini Daralt
+Detaylı &Bilgileri Göster
+&Cihazları Göster
+Show Trending &Videos
+&İndirme Çubuğu
+Araç Çubuğunu Daralt
+Durum &Çubuğunu Göster
+&Sekme Simgeleri
+Araç &Çubuğunu Göster
+&Otomatik Kapatma
+Devre dışı
+İndirmeler tamamlanınca programı kapat
+Tümü tamamlanınca programı kapat
+Tümü tamamlanınca programı kapat
+İndirmeler tamamlanınca bilgisayarı uyku moduna al
+Tümü tamamlanınca bilgisayarı uyku moduna al
+İndirmeler tamamlanınca bilgisayarı beklemeye al
+Tümü tamamlanınca bilgisayarı beklemeye al
+İndirmeler tamamlanınca bilgisayarı yeniden başlat
+Tümü tamamlanınca bilgisayarı yeniden başlat
+İndirmeler tamamlanınca bilgisayarı kapat
+Kurulum &Rehberi
+&İstatistikleri Göster
+Gecikme testi raporu
+&Dil Dosyası İndir
+&Güncellemeleri Kontrol Et
+µ&Torrent WebSitesi
+Virüs taraması yap
+&İndirme
+Öncelik
+&Yüksek
+&Düşük
+&Normal
+&Aç
+Dosyaları İçeren &Klasörü Aç
+Copy Stream &URL
+Dosya &sırasına göre öncelik ata
+&Yeniden konumlandır...
+%s - %z/s
+%s %#Z / %#Z
+%s - %s kaldı
+%s - İndirme başlatılıyor
+%s - UYARI: Kaynak yetersiz olabilir
+Uygulama Hakkında
+R&SS Beslemesi Ekle...
+&Torrent Ekle...
+&Gelişmiş
+Virüs taraması yap
+Bant &Genişliği Ataması
+Active&X
+&Arkaplan
+&Torrent Oluşturma
+&Okuma İzni
+&Yazma İzni
+&Eş Listesini Temizle
+Yorum
+Buna dönüştür
+&Magnet URI Kopyala
+Alta Taşı
+Üste taşı
+Duraklat
+Kaldır
+Başlat
+Ve&riyi Sil
+&Torrenti Sil
+T&orrent ve Veriyi Sil
+&İndirme Çubuğunu Göster
+Kaldır
+Bulunduğu Klasörü Aç
+İçinde oynat
+Harici uygulamada oynat
+Tekrar &Kontrol Et
+&Başlamaya Zorla
+Tam Ekran
+Cihazları Gizle
+Hide Media Player
+&Yüksek
+Beni bilgilendir!
+&Etiketler
+&Düşük
+Aşağı &Taşı
+Yukarı &Taşı
+&Yeni Pencere
+&Normal
+&Aç
+Dosyaları İçeren &Klasörü Aç
+Dönüştürülen Dosyaları Göster
+&RSS İndirme Aracı
+URL'yi tarayıcıda aç
+&Duraklat
+Buna dönüştür..
+Buna Aktar..
+Oynatmaya Zorla
+Özel&likler
+&Kaldır
+&Kaldır
+Kaldır ve .&torrent sil
+Kaldır ve Veriyi &sil
+Kaldır ve .&torrent + Veriyi sil
+Mümkünse &geri dönüşüm kutusuna gönder
+Kaldır &Ve
+Cihazı Sil
+&Engellenenleri Sıfırla
+&RSS Seçenekleri
+Torrent Gönder
+Klasör adını &değiştir
+İndirme &Sınırını Ayarla
+İ&ndirme yerini belirleyin...
+Gönderme &Sınırını Ayarla
+About Altruistic Mode...
+&Başlat
+D&urdur
+&Torrent Seçenekleri
+Uygulamayı Kaldır
+Tor&renti Güncelle...
+&İzleyiciyi Güncelle
+Alt+
+Ctrl+
+ÜstKrkt+
+5 saatten fazla
+Dosya taşıma hatası: %S (%d)
+&Eş Ekle...
+&Tüm eş listesi
+S&eçilen Hostları Kopyala
+&Eş Listesini Kopyala
+&Parça bilgisini kaydet...
+&IPFilter Tekrar Yükle
+&IPleri Çöz
+&Trafiği Günlük Sekmesinde Göster
+%s dosyası yeniden konumlandırılamadı, %s
+Today is your lucky day! %s will automatically update periodically - with new content delivered right to you. \n\n Just keep it on, and keep the free stuff coming!
+Today is your lucky day! we will automatically update periodically - with new content delivered right to you. \n\n Just keep it on, and keep the free stuff coming!
+In order to gain access to any free updates from %s, you have to keep it in your queue. Easy, right?
+In order to gain access to any free updates, you have to keep the torrent file in your queue. Easy, right?
+Kötü mesajı oku
+Kötü port numarası
+Kötü port numarası alındı
+Bağlantı gerçekleşmedi
+Gönderilen portu kontrol ediyor
+Ara bağlantıları kontrol ediyor ...
+Sunucu bu hesabı desteklemiyor
+Soket kapatılamadı
+Yerel bir ağ problemi baglantıyı kapadı
+Sunucu çöktü.
+Sunucu bağlantıyı kapadı.
+Sistem Çağrısı başarısız: OlayOluştur
+Sistem Çağrısı başarısız: BaşlıkOluştur
+İndirme
+İndirme testinde protokol hatası
+Sunucudan indirme hızını okumada bir problem oluştu
+İndirme testi: yanlış mesaj tipi
+Beklenmeyen boş mesaj kalıbı
+%s hata: %s (%d)
+Bağlantı kurulamadı
+Mesaj kalıbı okunamadı
+Dahili Hata
+Gönderilen mesajda geçersiz mesaj verisi var
+Geçersiz test kimligi
+Giriş hatası: Test emri alınamadı
+Giriş hatası: versiyon kontrolü
+arama
+Adres çözümlenemedi
+Mesaj çok uzun
+Orta kutu
+Test sonunda yanlış mesaj
+Sunucudan mesaj beklerken zaman aşımı oluştu
+Lütfen ağ yapılandırmasını kontrol ediniz.
+Sunucuya girişte problem oluştu
+Protokol hatası - mesaj tipi sınır dışında
+Orta kutu indirme hızını okurken bir problem oluştu.
+Gönderme hızını okurken bir problem oluştu.
+Mesajınız gönderilemedi
+Mesaj baslığı gönderilemedi
+Sunucu Meşgul: Su an çok fazla bekleyen kişi var, lütfen daha sonra tekrar deneyiniz
+Sunucu Meşgul: Lütfen testin bitmesi için 60 saniye bekleyiniz
+Sunucu Bağlantısı:
+Sunucu versiyonu çok eski.
+Basit güvenlik duvarı
+Sonuçlar: Gönderi: *
+)     İndirme: *
+Sonuçlar: Hız testi kullanıcı tarafından sonlandırıldı.
+Sonuçlar: Hız testi başarısız.
+İndirme testi yürütülüyor ...
+İndirme: TEST_START
+Metadata Gönderiliyor...
+Metadata: TEST_BAŞLIYOR
+Gönderme testi yürütülüyor ...
+Test isteği yürütülürken hata oluştu
+Bağlantı hatası
+Okuma hatası
+TEST_PREPARE mesajını okurken bir hata oluştu
+Süre geçti.
+Gönderme
+Gönderi: TEST_BAŞLIYOR
+web100 değişkenlerini okurken bir hata oluştu.
+Eklenme:
+Tamamlanma:
+Oluşturan:
+Hayır
+Go to Trending Videos to view more content.
+İzinsiz giriş
+Metin sınırları aşıldı
+Kırılma noktası
+baglantı eş tarafından kapatıldı
+Data tipi hiza dışında
+Dosya boyutu dosya sistemi boyut sınırını aşıyor
+Float normal dışı işlenen
+Float sıfır ile bölündü
+Float hatalı sonuç
+Float geçersiz işlem
+Float taşması
+Float yığın denetimi
+Float boş
+Koruma sayfası
+host adı bulunamadı
+Yasadışı komut
+Tamsayı sıfır ile bölündü
+Tamsayı taşması
+Geçersiz düzen
+Geçersiz müdahale
+Sayfa hatası
+Devamsız istisna
+çevrimdışı (zaman aşımı)
+Tamsayı özel komutu
+Tek adım
+Yığın taşması
+Birim çıkarıldı
+Elle (Manuel) Aktarma
+iTunes ile eşitle
+Besleme Ekle
+URL Ekle
+Cihaz ekle
+Yüksek
+Düşük
+Metadata
+Normal
+Aktif
+Torrentler
+Tüm Beslemeler
+Tamamlanan
+Dönüştürülenler
+Cihazlar
+İndiriliyor
+Beslemeler
+Trending Videos
+İnaktif
+Etiketler
+Media Player
+Etiket Yok
+Anti-virus Koruması
+HD Media Oynatıcı
+Ön izleme
+Plus a Yükselt
+Pro ya Yükselt
+Gönderiliyor
+Eklendi
+Antivirüs
+||Ulaşıl.||Ulaşılabilirlik
+||Bg.Atama||Bant Genisliği Ataması
+Tamamlanan Baytlar
+Tamamlanma
+Ayıkla
+Disk İşleri
+Bitti
+İndirilen
+İndirme Sınırı
+İndirme hızı
+Geçen
+Bölüm
+TS
+Biçim
+Erişim
+Etiket
+En Son Etkin
+İsim
+Ad ...\r\nYeni metin satırı
+#
+Eşler
+Değerlendirme
+Kalan
+Dizini Kaydet
+Ortaklar
+Kaynaklar/Eşler
+Seçilen Boyut
+Oran
+Boyut
+Kaynak URL
+Durum
+Playback
+İzleyici
+İzleyici Durumu
+Gönderme Tamamlandı
+Gönderme Sınırı
+Gönderme hızı
+Seçili %d torrenti kaldırmak istiyor musunuz%s?
+Seçili torrenti kaldırmak istiyor musunuz%s?
+Oluştur
+ ve tüm dosyaları
+Kaldır
+desteklenmiyor
+Geri bildirim
+Torrentleri filtrele
+Kontrol ediliyor %:.1d%%
+Eşlere bağlanılıyor
+Siliniyor
+İndiriliyor
+Metadata indiriliyor
+Hata: %s
+Eşler aranıyor
+Tamamlandı
+Diske yazılıyor (%d)
+[Z] İndiriliyor
+[F] Gönderiliyor
+[F] İlk Gönderme
+Taşınıyor...
+DHT açık olmalı (DHT yi açınız)
+Duraklatıldı
+Çıkarılıyor...
+Karantina
+Sırada
+Sıradaki Ortak
+Çözümleniyor %:.1d%%
+RSS
+Daha önce indirilmiş
+Gönderiliyor
+Durduruldu
+İlk Gönderme
+Kaydediliyor %:.1d%%
+Yükle
+Aşağı
+Yukarı
+Etiket girin
+Seçtiginiz torrentler için yeni etiket girin:
+Yeni etiket...
+Oynat
+Ön izleme
+%s. sonra hazır
+Süresi Dolmuş
+%d gün sonra süresi dolacak
+Yarın süresi dolacak
+Yükselt
+Pro ya yükseltin...
+Seçenekler
+Ön izleme
+Birincil Olarak Ayarla
+Ara
+*
+Gönder
+İndirme
+Durdur
+Dosyalar
+Bilgi
+Günlük
+Eşler
+Parçalar
+Playback
+Değerlendirmeler
+İlişkili
+Hız
+İzleyiciler
+Torrent Ekle
+URL'den torrent ekle
+Virus Taraması
+Yeni Torrent Yap
+Geri bildirim yapın!
+Torrent Görünümünü Değiştir
+Alta Taşı
+Üste taşı
+Tercihler
+Kaldır
+RSS Beslemesi Ekle
+*
+Ara
+Gönder
+Torrenti Başlat
+Torrenti Durdur
+Kısa eğitim
+Uzak
+Görünümü değiştir
+Kısa eğitim
+uT remote
+Virus Taraması
+Bir kaç soruya cevap vererek size daha iyi reklamlar göstermemize yardımcı olun
+Please feel free to read our <a href="http://www.bittorrent.com/legal/privacy">Privacy Policy</a>
+Yaş:
+Cevaplarımı Gönder
+Cinsiyet:
+BitTorrent in size daha uygun reklamlar göstermesine yardımcı olun
+İlgilendiğiniz:
+İlişki Durumunuz:
+We want to show your the most meaningful advertisements we can
+Kapat
+Anketimize katıldığınız için teşekkür ederiz.
+At BitTorrent, we're always trying to improve our\nproducts.  Your feedback is incredibly helpful to\nus.  We really appreciate your valuable input.
+bir gün önce
+%d gün önce
+bir saat önce
+%d saat önce
+bir dakikadan az bir süre önce
+bir dakika önce
+%d dakika önce
+bir ay önce
+%d ay önce
+bir hafta önce
+%d hafta önce
+bir yıl önce
+%d yıl önce
+DURAKLATILDI %:.1d %%
+Failed to connect to %s Remote. This appears to have happened because you are running a peer blocking application such as PeerGuardian or PeerBlock. These programs are not currently compatible with %s Remote. You should either disable your peer blocking application, or disable %s Remote.
+Program
+Ayıkla
+||Eş ind.||Eş indirme hızı
+İndirilen
+İndirme hızı
+Socket State
+Bayraklar
+Hasherr
+İnaktif
+IP
+Max İndirme
+Max Gönderme
+%
+Port
+Sırada
+Kota
+Uygunluk
+İstekler
+Gönderme Tamamlandı
+Gönderme hızı
+Bekleyen
+Ulaşılabilirlik
+Bloklar
+Tamamlanan
+Mod
+# Blok
+#
+Öncelik
+Boyut
+Zaman Aşımı
+hızlı
+orta
+yavaş
+İndirilen dosyayı harici oynatıcıda oynat
+İndirilen dosyayı oynat
+Play streamable file
+Try to stream file
+Congratulations! Your software is turning into %s Plus as we speak, and all features will be ready to use in about a minute.\n\nTo learn about your new features, please refer to the %s Plus forums.
+Plus paketi indirilemedi
+Plus yüklemesi sürüyor.\nKısa sürede tamamlanacak.
+Plus oynatıcı süresi bitmiş. Medya dosyası ücretsiz oynatıcı ile oynatılacak
+%s Plus Player is installing. Please try again shortly.
+Attention - this torrent contains files that may harm your computer.\n\nUpgrade to %s Plus to protect yourself from viruses hiding in torrents.
+Dönüştür
+Aç
+This device can't play this type of media file.\n\nUpgrade to %s Plus to convert this file so it can be played.
+Port yönlendirme testi bitti. %s
+Sonuçlar: Port açık değil.
+Sonuçlar: Proxy bulundu. Sonuçlar yetersiz.
+Too many activations\nA single purchased copy of %s Pro can only be installed on a set number of computers. This copy has been installed on too many different computers.\n\nPlease either purchase a new copy for this computer, or contact us at http://help.bittorrent.com if you think you're getting this message in error.
+Congratulations! Your software is turning into %s Pro as we speak, and all features will be ready to use in about a minute.\n\nTo learn about your new features, please refer to the %s Pro forums.
+Pro paketi indirilemedi
+Pro yüklemesi sürüyor.\nKısa bir zamanda tamamlanacak.
+Pro oynatıcı süresi doldu. Ücretsiz oynatıcı ile oynatılacak
+%s Pro Oynatıcı yükleniyor. Birazdan tekrar deneyin.
+Dikkat - bu torrent bilgisayarınıza zarar verebilecek dosyalar barındırıyor.\n\n%s Pro sürümüne yükselterek torrentlerin içine gizlenen zararlılardan kendinizi koruyabilirsiniz.
+Cihazınız bu dosyayı oynatamıyor.\n\n%s Pro sürümüne yükselterek oynatılacak bir formata dönüştürme yapabilirsiniz.
+%u Yorum
+Sırada
+Kopyalama: Sırada
+Yeniden Dene
+TÜM
+RSS: "%s" beslemesi zaten bulunmakta
+İndirme Tarihi
+Besleme
+Tam İsim
+URL
+RSS Kanalı "%s" silinsin mi?
+%d RSS Beslemesini silecek misiniz?
+(Tüm)
+RSS Besleme bulunamadı.
+URL'yi tarayıcıda aç
+&Sil
+(daima eşleştir)||(bir defa eşleştir)||12 saat||1 gün||2 gün||3 gün||4 gün||1 hafta||2 hafta||3 hafta||1 ay||
+Son eşleşme tarihi: %s\r\nSon eşleşen bölümler: %s\r\n\r\nEşleşen sunumlar:\r\n%s
+Yok
+Yeni Filtre
+Yok
+&İndir
+&Sik Kullanılanlara Ekle
+URL'yi tarayıcıda aç
+TÜM
+RSS Süzgeci "%s" silinsin mi?
+%d RSS geçmisi silinsin mi?
+RSS: Süzgeç reddedildi "%S"
+Sık Kullanılanlar||Geçmiş||
+Çok fazla
+RSS: Yüklenemedi: "%S": %s
+RSS: "%s" Indirilemedi: %s
+     Zamanlanmış (İndiriliyor)
+Exception aborted.
+Bağlantı doğru olarak kesilemedi. Hata %d
+Bir güvenlik bağlamı hatasından dolayı bağlantı doğru olarak kesilemedi.
+Sunucu gönderilemediğinden, bağlantı doğru olarak kesilemedi.
+Güvenli bağlantı kurulamadı. Hata %d
+Güvenlik bağlamı başlatılamadı. Hata %d
+Bellek yetersiz
+Sunucu kimliği doğrulanamadı
+Veri şifresi çözülemedi. Hata %d
+Veriler gönderilemedi. Hata %d
+SSL parça boyutu alınamadı.
+Veriler şifrelenemedi. Hata %d
+Sunucuya gönderme başarısız.
+Sunucu sertifikası doğrulanamadı
+Dönüştürülen dosyaları Android cihaza yükle.
+Dönüştürülen dosyaları BT Se rtifikalıcihaza yükle.
+Dosyaları yükle.
+Dönüştürülen dosyaları PS3'e yükle.
+Transfer files converted for XBox.
+ses
+Pzt||Salı||Çrş||Prş||Cm||Cmt||Pzr||
+Cuma
+Pazartesi
+Cumartesi
+Pazar
+Perşembe
+Salı
+Çarşamba
+belgeler
+'%s' okunamadı
+'%s' dosyasına yazılamadı
+Dosyayı '%s' başka bir program kullanıyor ve açılamaz.
+'%s' bulunamadı
+'%s' açılırken bilinmeyen bir hata oluştu.
+'%s' kurtarıldı.
+Değişiklerin uygulanabilmesi için %s i yeniden başlatmalısınız.
+Oynatıcınızı seçin
+Çalıştırılabilir (*.exe)||*.exe||Tüm dosyalar (*.*)||*.*||
+Sınırsız
+Sınırsız -\nBand genişinini\ntamamını kullanır
+Sınırlı
+Sınırlı -\nBelirlediğiniz limitler\ndoğrultusunda çalışır
+Sadece gönder
+Sadece gönderme -\nSadece veri gönderir\n(tamamlanmamışlar dahil)
+Kapat
+Kapat -\nZorlu indirilmeyen\ntüm torrenteleri durdurur
+videolar
+En doğru sonucu almak için lütfen size en yakın Sunucuyu seçiniz.
+Lütfen bir sunucu seçiniz
+Daha ayrıntılı bilgi için <a href="http://www.utorrent.com/faq">FAQ</a> veya <a href="http://portforward.com/">portforward.com</a>
+*
+PostMessage başarısız h:%d i:%d t:%d e:%d
+Sonuç: Port açık değil (Sadece indirme yapabilirsiniz).
+ Portların açık olması indiremeleri hızlandıracak ve göndermeyi aktifleştirecektir. Ayrintılı bilgi için SSS ve portforward.com a bakınız.
+Sonuçlar: Port açık. Ağınız düzgün bir şekilde ayarlandı.
+Bu test port yönlendirme ayarlarınızı doğrulayacak ve yapılandırma sorunlarını gösterecek.
+Testleri Başlat
+Bu test bant genişlişi sınırını belirlemek ve ayarlamak için <a href="http://www.utorrent.com/faq#mlabs">Measurement Lab</a> ayarlarını kullanacak.
+Eğer hiçbir yer yakın değil ise, burada test edip <a href="http://dslreports.com/speedtest/">dslreports</a> yükleme hızınızı yazınız.
+Testleri Durdur
+%s Yükleyicisi
+%s Bant Genişliği Konfigürasyonu
+%s ağınızı test edecek ve en iyi performans için ayarlamalar yapacak.
+En yakın test lokasyonunu seçiniz ...
+Sunucu Listesini İndiriyor ...
+Lütfen 0-65535 arasında geçerli bir port numarası girin.
+Bu bir muhtemel servis portu. Lütfen baska bir port seçin.\n(Bu ayarı ' bt.no_connect_to_services_list ' ile değiştirebilirsiniz)
+Yeni oluşturduğunuz torrenti paylaşmak için aşağıdaki bağlantıyı kopyalayın.
+torrent'leri kullanarak arkadaşlarınıza ve ailenize dosyalar gönderin
+İptal
+Bağlantıyı Alın
+Torrent dosyası oluşturuldu! Bu bağlantıyı paylaşın!
+Torrent oluşturuluyor...
+Dosyaları Gönder
+Dosya Gönder
+Geçersiz url tekrar gönderilmeye çalışıldı
+URL'ye tekrar gönderecek: %S
+Otomatik kapatma %d saniye sonra gerçekleşecek. \r\nDurdurmak için İptal'e tıklayın.
+BAŞARISIZ
+Bilgisayar uyku moduna alınıyor... %s
+TAMAM
+Programdan çıkılıyor
+Bilgisayar yeniden başlatılıyor... %s
+Bilgisayar kapatılıyor... %s
+Bilgisayarı beklet... %s
+(Alternatif hız testi için <a href="http://dslreports.com/speedtest/">dslreports</a>)
+gönderme oranı sınırı
+indirme oranı sınırı
+TCP yükleme oranı
+TCP indirme oranı
+oynatıcıya bir oran gönder
+önbellek okunuyor
+dosya okunuyor
+önbellek yazılıyor
+dosya yazılıyor
+transfer cap
+gönderilen + indirilen
+indirildi
+gönderme oranı (taşıma yükü)
+gönderilen
+ack gönderme
+ack indirme
+başlık gönderme
+başlık indirme
+göndermeye bağlan
+indirmeye bağlan
+göndermeyi kapat
+indirmeyi kapat
+tekrar aktarım gönder
+indirme oranı (taşıma yükü)
+tekrar aktarım indir
+maksimum gönderme gecikmesi
+ortalama gönderme gecikmesi
+minimum gönderme gecikmesi
+maksimum alma gecikmesi
+ortalama alma gecikmesi
+minimum alma gecikmesi
+hedef gecikme
+oku
+yaz
+gönderme hızı (yerel eşler)
+hash parçaları
+hash parçası
+yeniden paylaşma
+dosyaları taşı
+kapat
+parça dosyayı düzelt
+onar
+içeri aktar
+kapat
+dosyayı taşı
+indirme hızı (yerel eşler)
+delayed torrent work
+torrenti sil
+dosyaları sil
+isteğe bağlı okuma
+kopyala
+karantina
+torrent oluştur
+gönderme hızı (aşım dahil)
+indirme oranı (aşım dahil)
+TCP gönderme hız sınırı
+TCP indirme hız sınırı
+kritik olmayan istekler
+tampon boyutu
+gizleme yapılacak saniye
+gözden önceki saniye
+alt çalışma saniyeleri
+next hole
+encoded rate
+toplam parçalar
+kritik istekler
+kritik iptaller
+%s zaten başlatılmaya çalışılıyor
+Deneyiminiz hakkında daha çok bilgi verin.
+Yayın kalitesi seçin
+Yayınlamak için tıklayın
+gün
+günler
+Your streaming trial ends in %d %s
+Streaming trial expired - Upgrade to Pro
+Ön belleğe alınıyor...
+\nYou can try playing it in a different media player\nafter it finishes downloading
+Unable to stream/play this file
+\nYou can try streaming again later or wait until it\nfinishes downloading
+Unable to stream this file right now
+Ses sorunu / Ses yok
+Kötü
+Many stops / buffering
+Akış kalitesini seçin...
+İyi
+Diğer...
+Oynatılmaya çalışılıyor...
+Dönüştürülen Dosya
+Yeni
+Yükselt
+µTorrent i yükseltin
+Gelişmiş
+UI Ekstraları
+Anti-virüs
+Bant Genişliği
+Bağlantı
+Disk Önbelleği
+Klasörler
+Genel
+UI Ayarları
+Etiket
+Transfer Limiti
+Eşitlenmiş Cihazlar
+Cihazlar
+Bir Program Çalıştır
+Zaman Çizelgesi
+Kuyruklama
+Playback
+BitTorrent
+Uzak
+Web UI
+Özellikleri Göster||Başlat/Durdur||Klasör aç||İndirme Penceresi||Oynat||
+Etkisiz||Etkin||Zorlu||
+1||2||5||7||10||14||15||20||21||28||30||31||
+MB||GB||
+(hiçbiri)||Socks4||Socks5||HTTPS||HTTP||
+(Asla)||
+5||10||25||50||100||
+Tanımlama
+Klasör
+Etiket
+İsim
+Değer
+İçerikler: "%s"
+Geçerli bir ön bellek boyutu değeri girin 32-1800.
+Aktarım sınırı sıfırdan büyük bir değer olmalıdır.
+Lütfen 0-65535 arasında geçerli bir port numarası girin.
+Çalıştırılacak programı seçin:
+Çalıştırılacak programı seçin:
+Belirtilen numara geçerli bir değer değil. Lütfen geçerli bir değer girin.
+Eşitlenmiş Cihazlardan Kaldır
+Eşitlenmiş Cihazlar
+Eklenme Tarihi
+İsim
+Gerçekten kullanılan trafik geçmişini silmek istiyor musunuz?\n\nBu işlem geri alınamaz.
+You can use the following parameters:\r\n\r\n%F - Name of downloaded file (for single file torrents)\r\n%D - Directory where files are saved\r\n%N - Title of torrent\r\n%P - Previous state of torrent\r\n%L - Label\r\n%T - Tracker\r\n%M - Status message string (same as status column)\r\n%I - hex encoded info-hash\r\n%S - State of torrent\r\n%K - kind of torrent (single|multi)\r\n\r\nWhere State is one of:\r\n\r\nError - 1\r\nChecked - 2\r\nPaused - 3\r\nSuper seeding - 4\r\nSeeding - 5\r\nDownloading - 6\r\nSuper seed [F] - 7\r\nSeeding [F] - 8\r\nDownloading [F] - 9\r\nQueued seed - 10\r\nFinished - 11\r\nQueued - 12\r\nStopped - 13\r\nQueued - 12\r\nPreallocating - 17\r\nDownloading Metadata - 18\r\nConnecting to Peers - 19\r\nMoving - 20\r\nFlushing - 21\r\nNeed DHT - 22\r\nFinding Peers - 23\r\nResolving - 24\r\nWriting - 25
+Hangi şehir ya da kasaba doğdunuz?
+A security question can be used later to transfer your %s Remote username to another computer. Would you like to create one now?
+Bir dizin seçin
+Aktif indirmelerinizin kaydedileceği bir dizin seçin:
+<a>Yeni Android uygulamamızı deneyin!</a>
+Şimdiki ayarlar (
+Test Sonuçları (
+Sınırsız
+Reklamı rapor et
+Test başlıyor...
+%dd %dh
+%dh %dm
+%dm %ds
+%ds
+%dw %dd
+%dy %dw
+E-posta adresinizi girin ve ücretsiz içeriğe erişin
+Güncellemek için güncelleye tıklayın.
+&DHT'yi etkinleştir
+&Zamanlayıcıyı Etkinleştir
+&İndirme Sınırı
+Ç&ıkış
+&µTorrent'i Gizle/Göster 
+&Tüm torrentleri duraklat
+&Tüm torrentleri başlat
+&Zamanlayıcıyı Etkinleştir
+İstatistikler...
+&Gönderme Sınırı
+Genel||Gelişmiş||
+Eş Ekle
+IP:port girin / [IPv6]:eklenecek eşin portu:
+Çalıştırılabilir dosyalar (*.exe)||*.exe||Tüm dosya türleri (*.*)||*.*||
+Bir dosya seçin
+     Aktarıldı
+İndirme tamamlandı|%s indirmesi tamamlandı.
+RSS'den yeni indirme|%s indirmesine başlandı.
+Yeni Sürüm|%s in yeni sürümü var!
+!Hata|%s dosyasını son kaydetmek istediğiniz klasöre'a taşınamadı, yeterli disk alanı yok.
+!Torrent Hatası|Dosya: %s\n%s
+Duyurular
+İndirilen
+Aralık
+En Kısa Zaman Aralığı
+İsim
+Eşler
+İstatistikler
+Ortaklar
+Durum
+Güncelleme
+Kabul edilmeyen karakter %S, '%S' düzeltiniz
+%S %u karakter %d den daha uzun olamaz
+Bir %S yazın.
+Seçilen izleyicileri %d kaldırmak istediğinizden emin misiniz?
+Seçilen izleyiciyi kaldırmak istediğinizden emin minisiniz?
+%s Remote için bir şifre girmelisiniz.
+%s Servisine kayıt olunamadı.
+"%S" kullanıcı adını kullanan bir bilgisayar zaten var.
+"%S" kullanıcı adı güvenlik sorusu cevabı yanlış. Tekrar deneyin.
+Durum: Ulaşılabilir
+Durum: Bağlanıyor...
+Durum: Ulaşılabilir değil
+Durum: Hesap düzeltilemedi
+Durum: Kayıt işlemi başarısız oldu
+Durum: Kayıt işlemi başarısız oldu
+Durum: Hesap düzeltildi
+Durum: %d saniyede tekrar bağlanmaya çalışacak
+Durum: Kaydedildi
+Durum: Kaydedildi
+Durum: Kaydediliyor...
+Durum: Güvenlik sorusu kayıt ediliyor
+Durum: Secur32.dll veya Security.dll yüklenemedi.
+Durum: Kullanıcı adı düzeltiliyor
+%s kaldırılıyor ...
+%s uygulamasını kaldırmak istediğinizden emin misiniz?\n\nBu yalnızca %s uygulamasını kaldıracak. Devam \neden veya tamamlanmış indirmelerinizden hiçbiri kaldırılmayacak
+µTorrent'i kaldırmak istediğinizden emin misiniz?
+Kaldırma başarısız.
+Birden çok kere açılmış, tamamı sonlandırılamadı.\r\n Kaldırma işlemi iptal ediliyor.
+Ayarları kaldır
+Kaldırmayla ilgili ankete katıl
+kB/s
+%s güncelleme başarısız oldu. Tekrar deneyin.
+µTorrent güncellenemedi. Tekrar deneyiniz.
+µTorrent Güncel
+Güncelleme geçmişi
+%s güncelleme yapılamadı. Güncelleme başlatılamadı.
+exe dosyası çalıştırılamadı %s
+mutex alınamadı %s
+geri alma işlemi %x -> %x
+Yeni versiyon hazır!\r\nGüncelleme için µTorrent yeniden başlatılsın mı?
+güncelleme kaydedilemedi. Daha sonra tekrar deneyin
+dosya kaydedilemedi
+Güncelleme detayları
+Bundle'a gözat
+Güncellendi : *
+Güncellemeler: *
+Torrent için güncelleme bulunamadı.
+Güncelleme dosyası doğrulanamadı. Lütfen güncellemeyi tekrar çalıştırın.
+güncelleme doğrulanamadı. Tekrar deneyin.
+eşleşmeyen exe sürümü
+%s Yükselt
+Sorunsuz bir şekilde güncellendi
+µTorrent yükseltme yardımcısına hoş geldiniz
+Though not recommended, you can turn automatic updates off at any time under Options>Preferences>Advanced
+Sihirbaz %s yükseltme işleminde size yardımcı olacak.\r\nVersion: %s (Derleme %s)
+Updates are now build into %s, so you'll always have the latest and greatest stable version of the software including security enhancements, bug fixes and new features.
+Updates are now built into %s, so you'll always have the latest and greatest stable version of the software including security enhancements, bug fixes and new features.
+Though not recommended, you can turn automatic updates off at any time under Options>Preferences>Advanced
+This wizard will guide you through the upgrade of %s by BitTorrent, Inc. - the world's premiere, feature-rich torrent client.\r\n\r\nVersion: %s (Build %s)\r\n\r\nClick Next to continue.
+µTorrent® yükseltme yardımcısına hoş geldiniz.
+VLC player'ı edin (Önerilir)
+  (Önerilir)
+Oynatıcı çalıştırılamadı. Lütfen tekrar deneyin.
+Şifreler eşleşmiyor.
+Bir daha hösterme
+İptal
+TAMAM
+Seçilen torrenti kaldırmak istediğinizden emin misiniz ?
+Silmeden önce değerlendirerek diğer indirenlerin fikir edinmesine yardımcı olun.
+WebUI dosyası indirilemedi. Hata: %s
+WebUI bilgisi indirilemedi. Hata: %s
+WebUI dosyası bulunamadı - indirmeye çalışıyor
+%s has requested permissions on %s:\n%s\nDo you want to allow access?\nIf you did not initiate this request, press Cancel.
+%s has requested access to %s.\nDo you want to allow access?\nIf you did not initiate this request, press NO.
+Pin kodu yanlış
+Evet
